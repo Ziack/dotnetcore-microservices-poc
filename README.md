@@ -1,4 +1,4 @@
-# ASCLAB .NET Core PoC - LAB Insurance Sales Portal
+# Microservice .NET Core PoC - LAB Insurance Sales Portal (Use Case)
 
 [![Build Status](https://travis-ci.org/asc-lab/dotnetcore-microservices-poc.svg?branch=master)](https://travis-ci.org/asc-lab/dotnetcore-microservices-poc)
 
