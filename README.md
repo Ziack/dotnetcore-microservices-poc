@@ -20,7 +20,7 @@ This is an example of a very simplified insurance sales system made in a microse
 * DynamicExpresso
 * SignalR
 
-**Comprehensive guide describing exactly the architecture, applied design patterns and technologies can be found on our blog:**
+**Comprehensive guide describing exactly the architecture, applied design patterns and technologies can be found on those links:**
 
 * Part 1 The Plan: Design Communication Across Microservice Boundaries
 
